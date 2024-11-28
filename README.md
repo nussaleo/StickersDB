@@ -1,0 +1,2 @@
+# StickersDB
+Figurinha de Whatsapp
